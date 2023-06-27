@@ -1,3 +1,7 @@
+## 0.1.3
+    - Updated ffi to 2.0.0
+## 0.1.2
+    - Flutter 3.0 support
 ## 0.1.0
     - Added null safety support
 ## 0.0.3

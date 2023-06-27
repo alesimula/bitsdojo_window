@@ -1,3 +1,11 @@
+## 0.1.5
+    - Runs on Windows 7
+## 0.1.4
+    - Updated win32 to 3.0.0
+## 0.1.3
+    - Updated ffi to 2.0.0
+## 0.1.2
+    - Flutter 3.0 support
 ## 0.1.1+1
     - Added Linux usage instructions
 ## 0.1.1
