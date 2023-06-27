@@ -36,6 +36,7 @@ Rect getScreenRectForWindow(int handle) {
 }
 
 class WinWindow extends WinDesktopWindow {
+  static final dpiAware = native.isDPIAware();
   int? handle;
   Size? _minSize;
   Size? _maxSize;
