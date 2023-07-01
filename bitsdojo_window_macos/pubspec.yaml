@@ -17,7 +17,7 @@ dependencies:
       url: https://github.com/alesimula/bitsdojo_window.git
       path: bitsdojo_window_platform_interface
       ref: older
-  ffi: ^1.0.0
+  ffi: ^2.0.0
 
 
 dev_dependencies:
