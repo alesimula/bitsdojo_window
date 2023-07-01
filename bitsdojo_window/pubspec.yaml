@@ -26,19 +26,19 @@ dependencies:
     git:
       url: https://github.com/alesimula/bitsdojo_window.git
       path: bitsdojo_window_platform_interface
-      ref: master
+      ref: older
   bitsdojo_window_windows:
     git:
       url: https://github.com/alesimula/bitsdojo_window.git
       path: bitsdojo_window_windows
-      ref: master
+      ref: older
   bitsdojo_window_macos:
     git:
       url: https://github.com/alesimula/bitsdojo_window.git
       path: bitsdojo_window_macos
-      ref: master
+      ref: older
   bitsdojo_window_linux:
     git:
       url: https://github.com/alesimula/bitsdojo_window.git
       path: bitsdojo_window_linux
-      ref: master
+      ref: older
